@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Dinakar S</h1>
 <h3 align="center">A passionate Front End Developer and a Cybersecurity Enthusiast </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lastairbender07&label=Profile%20views&color=0e75b6&style=flat" alt="lastairbender07" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DINAKAR-S&label=Profile%20views&color=0e75b6&style=flat" alt="DINAKAR-S" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lastairbender07" alt="lastairbender07" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DINAKAR-S" alt="DINAKAR-S" /></a> </p>
 
 - 🌱 I’m currently learning **bug-bounty react-js MERN**
 

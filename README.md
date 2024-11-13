@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Dinakar S</h1>
-<h3 align="center">A passionate Front End Developer and Cybersecurity Enthusiast </h3>
+<h3 align="center">A passionate Software Developer with skills in Full Stack and Cybersecurity Enthusiast </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DINAKAR-S&label=Profile%20views&color=0e75b6&style=flat" alt="DINAKAR-S" /> </p>
 

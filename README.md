@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DINAKAR-S&label=Profile%20views&color=0e75b6&style=flat" alt="DINAKAR-S" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DINAKAR-S" alt="DINAKAR-S" /></a> </p>
-
 - 🌱 I’m currently learning **bug-bounty, react-js, MERN**
 
 - 💬 Ask me about **Cybersecurity, AI/ML, and Data Analytics*

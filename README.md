@@ -13,13 +13,6 @@
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/10RzQiicCVwTWwPMuPxuhlDMRkPW85hky/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/dinakar-selva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinakar-selva" height="30" width="40" /></a>
-<a href="https://onewriteup.com/author/dinakar-s/" target="blank" ><img align="center" src="https://onewriteup.com/wp-content/uploads/2024/04/OneWriteupreal.png" alt="dinakars" height="30" width="40" /></a>
-<a href="https://tryhackme.com/p/dinakarS" target="blank" ><img align="center" src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" alt="dinakarS" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>

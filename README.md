@@ -5,6 +5,13 @@
   <img src="https://komarev.com/ghpvc/?username=DINAKAR-S&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DINAKAR-S&theme=tokyonight" />
+</p>
+
+
 ---
 
 ## 🚀 About Me
@@ -174,14 +181,6 @@ Input → Power Automate → Azure OCR → LLM → Validation → APIs → CRM
 
 - Built natural language → SQL system  
 - Enabled business users to query databases  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DINAKAR-S&layout=compact" />
-</p>
 
 ---
 

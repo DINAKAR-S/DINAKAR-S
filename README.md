@@ -1,207 +1,216 @@
-<h1 align="center">Hi 👋, I'm Dinakar S</h1>
-<h3 align="center">AI Engineer | LLM Systems | Automation Architect | API Integrations</h3>
+<h1 align="center">Dinakar S</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DINAKAR-S&label=Profile%20views&color=0e75b6&style=flat" />
+  <strong>AI Engineer &nbsp;·&nbsp; LLM Systems Architect &nbsp;·&nbsp; Automation Engineer &nbsp;·&nbsp; API Integrations</strong>
 </p>
-
-## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DINAKAR-S&theme=tokyonight" />
+  <a href="https://dinakar.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/dinakar-selva"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:dinakars2003@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://n8n.io/creators/jamesdinakar/"><img src="https://img.shields.io/badge/n8n_Creator-EF5E32?style=for-the-badge&logo=n8n&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=DINAKAR-S&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 </p>
 
+---
+
+## About
+
+I'm an AI Engineer specializing in building **production-grade AI systems, LLM pipelines, and automation platforms** that solve real business problems — not just demos. My work spans the full stack: from document ingestion and AI processing to workflow orchestration and business output delivery.
+
+- Specialized in **RAG systems, AI agents, document intelligence**, and end-to-end workflow orchestration
+- Experienced in **fintech automation** integrating APIs such as Equifax, compliance services, and CRMs
+- Focused on shipping systems that go from **prototype to production**, reliably and at scale
+
+> *Build real systems. Automate everything. Scale what works.*
 
 ---
 
-## 🚀 About Me
+## GitHub Activity
 
-🔹 AI Engineer building **production-grade AI systems, LLM pipelines, and automation platforms**  
-🔹 Specialized in **RAG systems, AI agents, document intelligence, and workflow orchestration**  
-🔹 Experience in **fintech automation systems integrating APIs like Equifax, compliance services, and CRMs**  
-🔹 Focused on **end-to-end systems: ingestion → AI processing → automation → business output**
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DINAKAR-S&theme=tokyonight&hide_border=true" />
+</p>
 
-- 💬 Ask me about: **LLMs, AI Agents, Automation, APIs, System Design**
-- 🌐 Portfolio: https://dinakar.vercel.app/
-- 📫 Email: dinakars2003@gmail.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DINAKAR-S&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DINAKAR-S&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+### Contribution Highlights
+
+| Metric | Count |
+|--------|-------|
+| Public Repositories | 25+ |
+| n8n Workflow Templates Published | 15+ |
+| AI Automation Projects Shipped | 10+ |
+| Fintech API Integrations | 5+ |
+| Document Types Processed (Enterprise) | 20+ |
 
 ---
 
-## 🧠 What I Actually Build
+## Core Competencies
 
-✔️ AI-powered document processing systems (OCR + LLM + validation)  
-✔️ RAG-based search systems and chatbots  
-✔️ AI agents for automation (lead gen, scraping, workflows)  
-✔️ API-driven automation pipelines (CRM, fintech, compliance)  
-✔️ Real-time AI apps with backend + frontend integration  
+| Domain | Skills |
+|--------|--------|
+| **AI & LLM Systems** | GPT-4o, LangChain, Hugging Face, RAG Pipelines, Prompt Engineering |
+| **AI Agents** | Autonomous agents, tool use, multi-step reasoning, orchestration |
+| **Document Intelligence** | OCR, Azure Document Intelligence, LLM-based extraction & validation |
+| **Automation Platforms** | n8n, Microsoft Power Automate, Zoho Creator, Power Apps |
+| **Backend & APIs** | FastAPI, Node.js, REST APIs, XML→JSON transformation, auth & validation |
+| **Cloud Platforms** | Azure OpenAI, Azure VMs, AWS SageMaker, AWS S3 |
+| **Data & Analytics** | Pandas, NumPy, Power BI, Excel Automation |
+| **Fintech Integrations** | Equifax APIs, compliance APIs (ACN, PPSR, title checks), CRM systems |
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Technology Stack
 
-### 🚀 AI / LLM Systems
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=pytorch" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,nodejs,mysql,azure,aws,github" />
 </p>
 
-- GPT-4o, LangChain, Hugging Face  
-- RAG (Retrieval-Augmented Generation)  
-- AI Agents & Prompt Engineering  
-- Sentence Transformers, Embeddings  
+---
+
+## Featured Projects
+
+### AI Document Automation System *(Enterprise)*
+> End-to-end document processing and automation using Azure AI + Power Automate
+
+- Processed **20+ financial document types** using OCR + LLM pipelines
+- Integrated **Equifax APIs** for credit and identity data retrieval
+- Built **Zoho Creator workflows** for deal automation and CRM sync
+- Reduced manual processing effort by **~30%**
+
+**Architecture:** `Input → Power Automate → Azure OCR → LLM → Validation → APIs → CRM`
+
+🔗 [Azure Document Intelligence](https://github.com/DINAKAR-S/Azure-Document-Intelligence) &nbsp;|&nbsp; [Power Automate Flows](https://dinakar.vercel.app/projects/microsoft-power-automate-flows/)
 
 ---
 
-### ⚙️ Backend & APIs
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,mysql" />
-</p>
+### Power Automate + Fintech API Workflows
+> Multi-step automation pipelines for compliance and credit data
 
-- FastAPI, REST APIs  
-- API Integrations (Equifax, fintech APIs, compliance APIs)  
-- XML → JSON transformations  
-- Authentication, validation, orchestration  
+- Designed full pipelines: `OCR → LLM → Validation → CRM → API calls`
+- Converted XML API responses to structured JSON for downstream use
+- Integrated Equifax, ACN, PPSR, and title check APIs
+- Implemented retry logic, conditional flows, and fault-tolerant error handling
 
 ---
 
-### ☁️ Cloud & AI Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=azure,aws" />
-</p>
+### AI Meeting & Sprint Manager
+> AI-powered sprint planning and backlog management platform
 
-- Azure OpenAI, Azure Document Intelligence  
-- Azure VMs (API deployment)  
-- AWS SageMaker, S3  
+- Automated backlog prioritization using LLM-based triage
+- Improved team productivity by **~40%**
+- Built with Next.js + OpenAI + real-time database
 
----
-
-### 🔄 Automation & Workflow Systems
-<p>
-  <img src="https://skillicons.dev/icons?i=github" />
-</p>
-
-- n8n (Verified Creator)  
-- Microsoft Power Automate  
-- Zoho Creator (Deluge scripting)  
-- Power Apps & Power Pages  
+🔗 [meetingsai.netlify.app](https://meetingsai.netlify.app/)
 
 ---
 
-### 📊 Data & Analytics
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
+### n8n AI Automation Workflows
+> AI agent workflows published as a Verified n8n Creator
 
-- Pandas, NumPy  
-- Power BI, Excel Automation  
+- Built agents for **lead generation, job scraping, and social media automation**
+- Integrated OpenAI + Apify + external APIs into fault-tolerant pipelines
+- Reduced manual effort by **~50%** across use cases
 
----
-
-## 🚀 Featured Projects
-
-### 📄 AI Document Automation System (Enterprise)
-
-🔗 https://github.com/DINAKAR-S/Azure-Document-Intelligence  
-🔗 https://dinakar.vercel.app/projects/microsoft-power-automate-flows/
-
-- Built **end-to-end document automation pipelines** using Azure AI + Power Automate  
-- Processed **20+ financial document types**  
-- Integrated **Equifax APIs for credit + identity data retrieval**  
-- Built **Zoho Creator workflows for deal automation**  
-- Reduced manual effort by **~30%**
+🔗 [n8n Creator Profile](https://n8n.io/creators/jamesdinakar/)
 
 ---
 
-### ⚡ Power Automate + Fintech API Workflows
+### AI Document Search — RAG Chatbot
+> Conversational search system built on Retrieval-Augmented Generation
 
-- Designed **multi-step automation pipelines**:
-  - OCR → LLM → Validation → CRM → API calls  
-- Converted **XML responses → structured JSON pipelines**  
-- Integrated:
-  - Equifax APIs  
-  - Compliance APIs (ACN, PPSR, title checks)  
-- Implemented:
-  - Retry logic  
-  - Conditional flows  
-  - Error handling systems  
+- Built with LangChain + Mistral + ChromaDB
+- Improved document search accuracy by **~35%**
 
-📌 Architecture:  
-Input → Power Automate → Azure OCR → LLM → Validation → APIs → CRM
+🔗 [GitHub Repository](https://github.com/DINAKAR-S/AI-Powered-Document-Search-and-Chatbot-Development)
 
 ---
 
-### 🤖 AI Meeting & Sprint Manager
+### AI Inventory Search — LLM + SQL
+> Natural language to SQL interface for non-technical business users
 
-🔗 https://meetingsai.netlify.app/
+- Enabled plain-English database queries without SQL knowledge
+- Powered by LLM-based query translation and validation
 
-- AI-powered sprint planning system  
-- Automated backlog prioritization  
-- Improved productivity by **~40%**  
-- Built with Next.js + OpenAI + real-time DB  
-
----
-
-### 🔄 n8n AI Automation Workflows
-
-🔗 https://n8n.io/creators/jamesdinakar/
-
-- Built AI agents for:
-  - Lead generation  
-  - Job scraping  
-  - Social media automation  
-- Integrated OpenAI + Apify + APIs  
-- Reduced manual effort by **~50%**  
-- Designed fault-tolerant workflows  
+🔗 [GitHub Repository](https://github.com/DINAKAR-S/AI-Powered-Inventory-Search-Using-LLMs-for-SQL)
 
 ---
 
-### 🔍 AI Document Search (RAG Chatbot)
+### AI Document Generation System
+> Template-driven document automation with backend integration
 
-🔗 https://github.com/DINAKAR-S/AI-Powered-Document-Search-and-Chatbot-Development  
+- Automated generation of structured documents from dynamic data inputs
+- Integrated with backend systems for real-time output
 
-- Built conversational RAG system  
-- Used LangChain + Mistral + ChromaDB  
-- Improved search accuracy by **~35%**  
-
----
-
-### 🧾 AI Document Generation System
-
-🔗 https://dinakar.vercel.app/projects/docxtemplater/
-
-- Automated document generation using templates  
-- Integrated with backend systems for dynamic outputs  
+🔗 [Project Details](https://dinakar.vercel.app/projects/docxtemplater/)
 
 ---
 
-### 🗄️ AI Inventory Search (LLM + SQL)
+### PromptKitcha
+> System-wide prompt engineering tool — transform any text into a structured LLM-ready prompt with a single keystroke
 
-🔗 https://github.com/DINAKAR-S/AI-Powered-Inventory-Search-Using-LLMs-for-SQL  
+- Select text in **any application**, press `Ctrl+Shift+Space`, and instantly receive a well-structured prompt
+- Works across all apps system-wide — browser, IDE, notes, documents
+- Designed for developers and power users who work with LLMs daily
+- Eliminates prompt iteration overhead at the point of input
 
-- Built natural language → SQL system  
-- Enabled business users to query databases  
-
----
-
-## 🧩 Key Strengths
-
-✔️ AI Systems Engineering (LLMs, RAG, Agents)  
-✔️ Automation & Workflow Orchestration  
-✔️ API Integrations (Fintech, CRM, Data Systems)  
-✔️ Backend Development & Data Pipelines  
-✔️ Rapid Prototyping → Production Systems  
+🔗 [GitHub Repository](https://github.com/DINAKAR-S/Prompt-Kitcha)
 
 ---
 
-## 📬 Contact
+### Meetings AI
+> Full-stack AI meeting intelligence platform — transcription, summarization, and sprint management
 
-- 📧 dinakars2003@gmail.com  
-- 🌐 https://dinakar.vercel.app/  
-- 💼 https://linkedin.com/in/dinakar-selva  
+- AI-powered meeting transcription with automatic action item extraction
+- Sprint backlog generation and prioritization from meeting context
+- Built with Next.js + OpenAI + real-time database for live collaboration
+- Live deployment serving active users
+
+🔗 [GitHub Repository](https://github.com/DINAKAR-S/Meetings-AI) &nbsp;|&nbsp; [meetingsai.netlify.app](https://meetingsai.netlify.app/)
 
 ---
 
-## ⚡ Philosophy
+### Claude Skills
+> Modular skill system for Claude — reusable, composable instruction sets that extend Claude's capabilities across workflows
 
-> Build real systems. Automate everything. Scale what works.
+- Architected a **skill-based framework** enabling Claude to consistently execute complex, multi-step tasks
+- Skills cover domains including document creation, data analysis, frontend design, and automation workflows
+- Designed for composability — skills stack and combine across pipelines
+- Enables rapid deployment of Claude into production workflows without prompt re-engineering
+
+🔗 [GitHub Repository](https://github.com/DINAKAR-S/Claude-Skills)
+
+---
+
+### Agentic Research Paper Evaluator
+> Multi-agent system for autonomous evaluation and scoring of academic research papers
+
+- Orchestrates specialized agents across **methodology review, citation analysis, and result validation**
+- Produces structured evaluation reports with scoring rubrics and improvement recommendations
+- Built for researchers, reviewers, and institutions processing high volumes of papers
+- Demonstrates agentic coordination patterns: planning → delegation → synthesis
+
+🔗 [GitHub Repository](https://github.com/DINAKAR-S/Agentic-Research-Paper-Evaluator)
+
+---
+
+## What I Build
+
+- **AI-powered document processing systems** — OCR + LLM + validation pipelines
+- **RAG-based search and chatbot systems** — semantic retrieval over enterprise data
+- **AI agents for automation** — lead generation, scraping, multi-step orchestration
+- **API-driven automation pipelines** — CRM, fintech, compliance workflows
+- **Real-time AI applications** — full-stack, backend + frontend integrated
+
+---
+
+## Contact
+
+- **Portfolio:** [dinakar.vercel.app](https://dinakar.vercel.app/)
+- **LinkedIn:** [linkedin.com/in/dinakar-selva](https://linkedin.com/in/dinakar-selva)
+- **Email:** [dinakars2003@gmail.com](mailto:dinakars2003@gmail.com)
+- **n8n:** [n8n.io/creators/jamesdinakar](https://n8n.io/creators/jamesdinakar/)

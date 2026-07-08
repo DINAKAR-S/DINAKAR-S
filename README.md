@@ -1,14 +1,16 @@
 <h1 align="center">Dinakar S</h1>
 
 <p align="center">
-  <strong>AI Engineer &nbsp;·&nbsp; LLM Systems Architect &nbsp;·&nbsp; Automation Engineer &nbsp;·&nbsp; API Integrations</strong>
+  <strong>AI Automation Engineer &nbsp;·&nbsp; Agentic AI with Claude &nbsp;·&nbsp; MCP &nbsp;·&nbsp; n8n Verified Creator</strong>
 </p>
 
 <p align="center">
   <a href="https://dinakar.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://linkedin.com/in/dinakar-selva"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.upwork.com/freelancers/dinakar"><img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" /></a>
   <a href="mailto:dinakars2003@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://n8n.io/creators/jamesdinakar/"><img src="https://img.shields.io/badge/n8n_Creator-EF5E32?style=for-the-badge&logo=n8n&logoColor=white" /></a>
+  <a href="https://medium.com/@dinakars2003"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=DINAKAR-S&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 </p>
 
@@ -16,9 +18,10 @@
 
 ## About
 
-I'm an AI Engineer specializing in building **production-grade AI systems, LLM pipelines, and automation platforms** that solve real business problems — not just demos. My work spans the full stack: from document ingestion and AI processing to workflow orchestration and business output delivery.
+I'm an AI Automation Engineer specializing in building **production-grade agentic AI systems, LLM pipelines, and automation platforms** that solve real business problems — not just demos. My work spans the full stack: from document ingestion and AI processing to workflow orchestration and business output delivery.
 
-- Specialized in **RAG systems, AI agents, document intelligence**, and end-to-end workflow orchestration
+- 🧠 **Currently:** building a "Company Brain" — agentic AI systems with **Anthropic Claude, Claude Code subagents & MCP** that give CFOs and leadership teams unified AI visibility into financials, CRM, operations, and workflows
+- Specialized in **AI agents (Claude, MCP, LangChain, CrewAI), RAG systems, document intelligence**, and end-to-end workflow orchestration
 - Experienced in **fintech automation** integrating APIs such as Equifax, compliance services, and CRMs
 - Focused on shipping systems that go from **prototype to production**, reliably and at scale
 
@@ -53,8 +56,8 @@ I'm an AI Engineer specializing in building **production-grade AI systems, LLM p
 
 | Domain | Skills |
 |--------|--------|
-| **AI & LLM Systems** | GPT-4o, LangChain, Hugging Face, RAG Pipelines, Prompt Engineering |
-| **AI Agents** | Autonomous agents, tool use, multi-step reasoning, orchestration |
+| **AI & LLM Systems** | Anthropic Claude, GPT-4o, LangChain, Hugging Face, RAG Pipelines (pgvector, Pinecone), Prompt Engineering |
+| **AI Agents** | Claude Code subagents, MCP (Model Context Protocol), CrewAI, autonomous agents, tool use, multi-step reasoning, orchestration |
 | **Document Intelligence** | OCR, Azure Document Intelligence, LLM-based extraction & validation |
 | **Automation Platforms** | n8n, Microsoft Power Automate, Zoho Creator, Power Apps |
 | **Backend & APIs** | FastAPI, Node.js, REST APIs, XML→JSON transformation, auth & validation |
@@ -212,5 +215,7 @@ I'm an AI Engineer specializing in building **production-grade AI systems, LLM p
 
 - **Portfolio:** [dinakar.vercel.app](https://dinakar.vercel.app/)
 - **LinkedIn:** [linkedin.com/in/dinakar-selva](https://linkedin.com/in/dinakar-selva)
+- **Upwork:** [upwork.com/freelancers/dinakar](https://www.upwork.com/freelancers/dinakar)
 - **Email:** [dinakars2003@gmail.com](mailto:dinakars2003@gmail.com)
 - **n8n:** [n8n.io/creators/jamesdinakar](https://n8n.io/creators/jamesdinakar/)
+- **Medium:** [medium.com/@dinakars2003](https://medium.com/@dinakars2003)

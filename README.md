@@ -29,18 +29,7 @@ I'm an AI Automation Engineer specializing in building **production-grade agenti
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DINAKAR-S&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DINAKAR-S&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DINAKAR-S&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-### Contribution Highlights
+## Contribution Highlights
 
 | Metric | Count |
 |--------|-------|
@@ -70,7 +59,20 @@ I'm an AI Automation Engineer specializing in building **production-grade agenti
 ## Technology Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,nodejs,mysql,azure,aws,github" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,ts,react,nextjs,mysql,postgres,supabase,azure,aws,docker,git,github" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EF5E32?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=make&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zoho_Creator-E42527?style=for-the-badge&logo=zoho&logoColor=white" />
+  <img src="https://img.shields.io/badge/Attio_CRM-1D1D1F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Box-0061D5?style=for-the-badge&logo=box&logoColor=white" />
+  <img src="https://img.shields.io/badge/tl%3Bdv-6C5CE7?style=for-the-badge" />
 </p>
 
 ---

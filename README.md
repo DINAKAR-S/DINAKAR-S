@@ -139,17 +139,6 @@ I'm an AI Automation Engineer specializing in building **production-grade agenti
 
 ---
 
-### AI Meeting & Sprint Manager
-> AI-powered sprint planning and backlog management platform
-
-- Automated backlog prioritization using LLM-based triage
-- Improved team productivity by **~40%**
-- Built with Next.js + OpenAI + real-time database
-
-🔗 [meetingsai.netlify.app](https://meetingsai.netlify.app/)
-
----
-
 ### n8n AI Automation Workflows
 > AI agent workflows published as a Verified n8n Creator
 

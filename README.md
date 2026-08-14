@@ -79,6 +79,42 @@ I'm an AI Automation Engineer specializing in building **production-grade agenti
 
 ## Featured Projects
 
+### Voice Agent Starter Kit (28 stars) *(Open Source)*
+> Self-hosted multilingual phone voice agent - LiveKit Agents + Sarvam STT/TTS + OpenAI + SIP
+
+- ~700ms-1.2s round-trip latency, under Rs 5.5/min
+- English + 5 Indic languages; demo: real-estate site-visit booking agent
+
+[voice-agent-starter-kit](https://github.com/DINAKAR-S/voice-agent-starter-kit)
+
+---
+
+### Company AI OS *(Open Source)*
+> An Obsidian vault + any AI agent (Claude Code, Cursor) = a curated second brain for your business
+
+- /onboard interviews you, researches your tools' APIs & MCP servers, generates your instance
+- Plain markdown, MIT license, zero lock-in
+
+[company-ai-os](https://github.com/DINAKAR-S/company-ai-os)
+
+---
+
+### MicroManus - Deep Research Agent
+> Deep-research agent platform with auth, billing, and multi-step agent orchestration
+
+- Next.js + Supabase + Stripe + Tavily - live product
+
+[Live app](https://micromanus-three.vercel.app) | [GitHub](https://github.com/DINAKAR-S/micromanus)
+
+---
+
+### PromptKitcha (9 stars) *(Open Source)*
+> Select text in any app, press Ctrl+Shift+Space - it becomes a well-structured LLM prompt
+
+[Prompt-Kitcha](https://github.com/DINAKAR-S/Prompt-Kitcha)
+
+---
+
 ### AI Document Automation System *(Enterprise)*
 > End-to-end document processing and automation using Azure AI + Power Automate
 
